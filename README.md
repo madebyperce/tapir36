@@ -1,5 +1,5 @@
 # tapir36
- Min MX spaced reversible ergo split
+Minimally MX-spaced reversible ergo split board
  
 ![](https://raw.githubusercontent.com/madebyperce/tapir36/main/photos/pcb.PNG)
 
