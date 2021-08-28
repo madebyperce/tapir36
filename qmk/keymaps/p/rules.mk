@@ -1,0 +1,4 @@
+ENCODER_ENABLE = no
+COMBO_ENABLE = yes
+MOUSE_KEYS = yes
+AUDIO_KEYS = yes
