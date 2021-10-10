@@ -16,8 +16,6 @@ Rev 1.1 has:
  
 ![](https://raw.githubusercontent.com/madebyperce/tapir36/main/v1.1/photos/pcb.png)
 
-![](https://raw.githubusercontent.com/madebyperce/tapir36/main/v1.0/photos/render.png)
-
 ![](https://raw.githubusercontent.com/madebyperce/tapir36/main/v1.0/photos/schematic.PNG)
 
 ![](https://raw.githubusercontent.com/madebyperce/tapir36/main/v1.1/photos/soldermaskart.png)
