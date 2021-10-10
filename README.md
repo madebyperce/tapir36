@@ -10,6 +10,8 @@ Rev 1.1 has:
 * Simplified Tapir art 
 * Increased font size of text
 
+![](https://raw.githubusercontent.com/madebyperce/tapir36/main/v1.1/photos/image0.jpg)
+
 ![](https://raw.githubusercontent.com/madebyperce/tapir36/main/v1.1/photos/photo.jpg)
  
 ![](https://raw.githubusercontent.com/madebyperce/tapir36/main/v1.1/photos/pcb.png)
